@@ -4,7 +4,7 @@ public class Main {
         // write your code here
         //day 0
 //        String name = "Fido";
-//        System.out.print("Dog:" + name);
+//        System.out.print("Puppy:" + name);
 
 //        int eight = 8;
 //        int nine = 9;
@@ -26,9 +26,9 @@ public class Main {
 //        String hoskey="Hoskey";
 //        String lapulado="Lapulado";
 
-        Dog dog1 = new Dog("hoskey", 150);
-        Dog dog2 = new Dog("lapulado", 200);
-        Dog dog3 = new Dog("veryExpensive", 50);
+//        Puppy Puppy1 = new Puppy("hoskey", 150);
+//        Puppy Puppy2 = new Puppy("lapulado", 200);
+//        Puppy Puppy3 = new Puppy("veryExpensive", 50);
 
 
         int[] numList = {2, 2, 2, 2};
