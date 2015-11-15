@@ -1,8 +1,7 @@
-import java.util.logging.XMLFormatter;
-
 /**
  * Created by allen on 11/16/15.
  */
+@SuppressWarnings("DefaultFileTemplate")
 public class Num99to0 {
     public static void main(String[] args) {
         int x = 99;
